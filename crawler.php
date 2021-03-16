@@ -2,7 +2,7 @@
 
 
 
-$start = "http://localhost/cp476/a4/q3/index.html";
+$start = "your file with hyperlinks HERE";
 
 // Our 2 global arrays containing our links to be crawled.
 $already_crawled = array();
