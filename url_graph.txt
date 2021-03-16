@@ -1,0 +1,8 @@
+
+http://localhost/cp476/a4/q3/index.html ,http://localhost/cp476/examples/php/popcorn.html ,http://localhost/cp476/examples/php/sum.html
+http://localhost/cp476/examples/php/popcorn.html ,http://localhost/cp476\examples\php\guestbook.html
+http://localhost/cp476\examples\php\guestbook.html
+http://localhost/cp476\examples\php\guestbook.html
+http://localhost/cp476/examples/php/sum.html ,http://localhost/cp476/examples/react/react_hello.html
+http://localhost/cp476/examples/react/react_hello.html
+http://localhost/cp476/examples/react/react_hello.html

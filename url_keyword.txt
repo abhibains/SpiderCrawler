@@ -1,0 +1,4 @@
+http://localhost/cp476\examples\php\guestbook.html  HTML,Form,JavaScript
+http://localhost/cp476/examples/php/popcorn.html  HTML, CSS, JavaScript
+http://localhost/cp476/examples/react/react_hello.html  
+http://localhost/cp476/examples/php/sum.html  
