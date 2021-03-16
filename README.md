@@ -10,3 +10,7 @@ This is a web crawler that I developed using PHP! It implements the BFS first se
 ### Generated files
 
 The crawler generates bunch of files like *url_index.txt*, *index_keywords.txt* and some other files that can be used by a page ranking algorithm. 
+
+
+![Screenshot](Capture.PNG)
+
